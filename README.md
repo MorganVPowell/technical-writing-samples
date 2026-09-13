@@ -7,3 +7,4 @@ A collection of technical writing samples focused on knowledge base documentatio
 
 Samples:
 Reducing Support Calls 15% by Rewriting Unclear KB Articles
+Writing Clear Instructions for Users Aged 65 and Up
