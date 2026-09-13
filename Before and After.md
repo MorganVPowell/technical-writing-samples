@@ -1,3 +1,5 @@
+Project: Documentation Minimization & Structural Refactoring
+
 Before
 
 To configure the application settings, the user must first navigate to the settings menu, which can be accessed by clicking the gear icon located in the upper right hand corner of the dashboard interface. Once the settings menu has been opened, the user should then locate the notifications section, where various options pertaining to notification delivery preferences are available for configuration. It is important to note that changes made to these settings will not take effect until the application has been restarted.
