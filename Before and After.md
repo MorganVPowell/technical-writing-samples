@@ -16,8 +16,7 @@ To change your notification settings:
 
 Your changes save automatically. They take effect after the restart.
 
-
-Results:
+---
 
 What changed and why:
 
