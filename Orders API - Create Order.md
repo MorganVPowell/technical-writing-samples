@@ -1,6 +1,6 @@
 # Orders API - Create Order
 
-Sample API documentation created to demonstrate technical writing skills — not tied to a real company or live API.
+Sample API documentation created to demonstrate technical writing skills - not tied to a real company or live API.
 ## Overview
 The `Create Order` endpoint lets you programmatically submit a new order on behalf of a customer. Use this endpoint when a customer completes checkout in your application and you need to record the order in our system for fulfillment and billing.
 
