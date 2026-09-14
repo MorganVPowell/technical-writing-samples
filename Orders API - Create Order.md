@@ -1,4 +1,4 @@
-# Orders API — Create Order
+# Orders API - Create Order
 
 Sample API documentation created to demonstrate technical writing skills — not tied to a real company or live API.
 ## Overview
@@ -65,7 +65,7 @@ Idempotency-Key: 8f14e45f-ceea-4d5a-9b1e-3f2c1a7e9b21
   "shipping_address": {
     "line1": "123 Main St",
     "city": "Zzyzx",
-    "state": "C",
+    "state": "CA",
     "postal_code": "92309",
     "country": "US"
   },
